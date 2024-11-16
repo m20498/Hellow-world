@@ -1,3 +1,3 @@
 # Hellow-world
 
-pintf("hellow world");
+printf("hellow world");
